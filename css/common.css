@@ -23,3 +23,27 @@ button {
   cursor: pointer;
 }
 
+.gallery {
+  
+    display: flex;
+    width: 200px;
+    height: 250px;
+    margin-left: 30px;
+  }
+
+  .gallery_el {
+    margin: 40px;
+  }
+  
+  .input {
+    border: 3px solid #bdbdbd;
+  }
+  
+ .valid {
+    border-color: #4caf50;
+  }
+  
+  .invalid {
+    border-color: #f44336;
+  }
+
